@@ -2,3 +2,21 @@
 p {
     color: rgb(255, 199, 136);
 }
+
+.taste {
+    color: brown;
+}
+
+a {
+    color: skyblue;
+    font-family: sans-serif;
+}
+
+/* 여러개에 적용 */
+h1,
+h2,
+h3 {
+    align-content:center;
+    color:grey;
+    font-style:italic;
+}
