@@ -30,7 +30,3 @@ latest_posts:
 
 [인문데이터과학개론]에서는 최근 Github Pages와 Jekyll을 활용하여 개인 사이트를 만드는 방법을 배웠습니다.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
