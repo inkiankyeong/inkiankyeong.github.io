@@ -1,8 +1,8 @@
 ---
 layout: book-review
-title: 해리 포터 1: 마법사의 돌
+title: Harry Potter 1
 author: J.K. Rowling
-cover: 
+cover: assets/img/book_covers/XL.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9791193790403 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics crime historical-fiction mystery novels thriller
