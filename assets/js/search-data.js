@@ -440,8 +440,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-",
-          title: '',
+      },{id: "books-harry-potter-1",
+          title: 'Harry Potter 1',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hp/";
