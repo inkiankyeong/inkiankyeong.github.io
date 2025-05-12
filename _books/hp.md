@@ -1,10 +1,10 @@
 ---
 layout: book-review
 title: 해리 포터 1: 마법사의 돌
-author: Mario Puzo
-cover: assets/img/book_covers/XL.jpg
-olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+author: J.K. Rowling
+cover: 
+olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn: 9791193790403 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics crime historical-fiction mystery novels thriller
 tags: top-100
 buy_link: https://www.yes24.com/product/goods/136727687
