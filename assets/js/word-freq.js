@@ -52,7 +52,7 @@ function getChartData(text, topn=30) {
 
     //차트용 데이터 만들기
     const chartData = {
-    "lables": Object.keys(freq_sorted),
+    "labels": Object.keys(freq_sorted),
     "datasets": [
         {
             "label":"Frequency",
